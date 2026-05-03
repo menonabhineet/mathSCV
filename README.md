@@ -31,7 +31,7 @@ The project implements a token-efficient **Unified Evaluation Engine**. Rather t
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/menonabhineet/mathSCV.git](https://github.com/menonabhineet/mathSCV.git)
+git clone https://github.com/menonabhineet/mathSCV.git
 cd mathSCV
 ```
 
